@@ -1,0 +1,12 @@
+{
+    "name": "yii2-sys-redefinition/errors",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy"
+        }
+    ],
+  	"autoload": {
+	  "psr-4": {"Redefinitions\\Errors\\": ""}
+	}
+}
